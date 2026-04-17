@@ -105,4 +105,4 @@ Pega tu código, error o pregunta de arquitectura:
 
 ## Author
 
-Python for Everyone Project
+Reinaldo Aru - for the Python for Everyone Project.
